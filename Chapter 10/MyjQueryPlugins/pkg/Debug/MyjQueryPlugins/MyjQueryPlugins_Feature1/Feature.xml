@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="2ca30329-58db-460c-8957-2b6acc1efd83" Scope="Web" Title="MyjQueryPlugins Feature1">
+  <ElementManifests>
+    <ElementManifest Location="MyjQueryPluginsElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

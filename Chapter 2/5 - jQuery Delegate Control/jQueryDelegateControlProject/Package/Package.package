@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9b5e226e-08be-4c73-ab3e-d8abc9092262" solutionId="9b5e226e-08be-4c73-ab3e-d8abc9092262" resetWebServer="false" name="Activating jQuery with Delegate Control" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="347c9262-6082-4f59-8dc3-4a364313d48e" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="86edfb38-0f74-4998-99a6-72ab24b9de32" />
+  </projectItems>
+</package>

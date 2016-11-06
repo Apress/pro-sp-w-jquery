@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d527e0a1-2d2b-40f3-b328-aab28aae4a91" Scope="Web" Title="MyjQueryRibbonButton Feature1">
+  <ElementManifests>
+    <ElementManifest Location="myjQueryRibbonButtonElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

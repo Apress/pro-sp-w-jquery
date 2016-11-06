@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1a713150-dbc4-48fc-b7ff-476e1f7d3c5c" solutionId="1a713150-dbc4-48fc-b7ff-476e1f7d3c5c" resetWebServer="false" name="MyjQueryApplicationPage" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="6a5f414b-abe2-4c70-b6c8-228ed5ec869f" />
+  </projectItems>
+</package>

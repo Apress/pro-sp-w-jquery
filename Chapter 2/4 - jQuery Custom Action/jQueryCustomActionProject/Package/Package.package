@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="65b36e3f-f242-4ffa-8c74-075a27e6a79b" solutionId="65b36e3f-f242-4ffa-8c74-075a27e6a79b" resetWebServer="false" name="Enable jQuery through Site Action" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="de5b5afe-e6e6-4ef4-804b-04a9cf76f011" />
+  </features>
+</package>

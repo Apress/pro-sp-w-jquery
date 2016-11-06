@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="03390b12-c3e1-4d90-922b-89198ede4980" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="PluginPageProject.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\psd\arrows-small.psd" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\psd\arrows.psd" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\psd\plus.psd" />
+    <TemplateFile Location="Layouts\DragAndDrop.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\Autocomplete.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\ContentSlider.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\Default.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\Effects.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\Lightbox.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\NewsAccordion.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\css\style-index5.css" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\css\style-index6.css" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\css\style.css" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\01.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\02.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\03.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\04.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\05.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\06.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\07.jpg" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\arrows-small.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\arrows.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\black-opacity-40.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\black-opacity-60.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\black-opacity-80.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\glasses.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\plus.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\white-opacity-40.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\white-opacity-60.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\images\white-opacity-80.png" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\index.html" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\index2.html" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\index3.html" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\index4.html" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\index5.html" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\index6.html" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\jquery.aw-showcase.js" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\jquery.aw-showcase\jquery.aw-showcase.min.js" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\css\jquery.lightbox-0.5.css" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\images\lightbox-blank.gif" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\images\lightbox-btn-close.gif" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\images\lightbox-btn-next.gif" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\images\lightbox-btn-prev.gif" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\images\lightbox-ico-loading.gif" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\js\jquery.js" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\js\jquery.lightbox-0.5.js" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\js\jquery.lightbox-0.5.min.js" />
+    <TemplateFile Location="Layouts\PluginPage\Plugins\Lightbox\js\jquery.lightbox-0.5.pack.js" />
+    <TemplateFile Location="Layouts\PluginPage\Tabs.aspx" />
+    <TemplateFile Location="Layouts\PluginPage\Widgets.aspx" />
+  </TemplateFiles>
+</Solution>

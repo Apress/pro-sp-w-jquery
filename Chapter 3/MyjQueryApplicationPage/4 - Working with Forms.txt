@@ -1,0 +1,26 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+	$('input:button').css({ border: "3px blue solid" });
+});
+
+// Put in Main section
+
+<form action="#">
+	<input type="button" value="Input Button"/>
+	<input type="checkbox"/>
+	<input type="file"/>
+	<input type="hidden"/>
+	<input type="image"/>
+	<input type="password"/>
+	<input type="radio"/>
+	<input type="reset"/>
+	<input type="submit"/>
+	<input type="text"/>
+	<select>
+		<option>Option</option>
+	</select>
+	<textarea cols="10" rows="2">Text area</textarea>
+	<button>
+	Button</button>
+</form>

@@ -1,0 +1,23 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+    // Create an array of the new people to add
+    var newPeople = ["Sam", "Zoe", "Graeme", "Gemma"];
+    // Use the each method to iterate through array
+    $.each(newPeople, function (index, value) {
+        // Create new List Item and append it to the people unordered list
+        $('<li>' + value + '</li>').appendTo('ul#people');
+    });
+});
+
+// Put in Main section
+
+	<ul id="people">
+		<li>Phill</li>
+		<li>Pip</li>
+		<li>Les</li>
+		<li>Denise</li>
+		<li>Martin</li>
+		<li>Helen</li>
+		<li></li>
+	</ul>

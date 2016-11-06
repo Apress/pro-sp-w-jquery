@@ -1,0 +1,30 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+    $('ul#people > li').css('background-color', '#ADD8E6');
+});
+
+// Put in Main section
+
+<div id="myDiv1">
+	<p>
+		 Paragraph before List
+	</p>
+	<ul id="people">
+		<li>Phill</li>
+		<li>Pip</li>
+		<li>Les</li>
+		<li>Denise</li>
+		<li>Martin</li>
+		<li>Helen</li>
+		<li></li>
+	</ul>
+	<p>
+		 Paragraph after List
+	</p>
+	<div>
+		<p>
+			 Paragraph inside another div
+		</p>
+	</div>
+</div>

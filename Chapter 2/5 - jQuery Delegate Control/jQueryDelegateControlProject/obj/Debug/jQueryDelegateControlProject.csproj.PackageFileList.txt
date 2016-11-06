@@ -1,0 +1,1 @@
+bin\Debug\Activating jQuery with Delegate Control.wsp

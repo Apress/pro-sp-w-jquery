@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="db6e8c6e-0bf1-47bb-a499-e69373724f20" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="myjQueryNews.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="myjQueryNews, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4309d3960ab7a21b" Namespace="myjQueryNews.MyNewsWebPart" TypeName="*" />
+      </SafeControls>
+      <ClassResources>
+        <ClassResource Location="Scripts\MyNewsScript.js" />
+        <ClassResource Location="Styles\MyNewsStyle.css" />
+      </ClassResources>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\myjQueryNews\MyNewsWebPart\MyNewsWebPartUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="myjQueryNews_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

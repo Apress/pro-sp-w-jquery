@@ -1,0 +1,10 @@
+﻿.NewsStory
+{
+    border: thin solid #000000;
+    padding: 10px;
+}
+
+.NewsArticle
+{
+    padding: 10px;
+}

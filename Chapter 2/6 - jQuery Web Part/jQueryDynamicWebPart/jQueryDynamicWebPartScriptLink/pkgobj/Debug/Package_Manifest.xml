@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="eb60e3ee-0151-4a12-b1bc-324df58cb9b5" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="jQueryDynamicWebPartScriptLink.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="jQueryDynamicWebPartScriptLink, Version=1.0.0.0, Culture=neutral, PublicKeyToken=614e287e45846903" Namespace="jQueryDynamicWebPartScriptLink.jQueryScriptLink" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="jQueryDynamicWebPartScriptLink_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

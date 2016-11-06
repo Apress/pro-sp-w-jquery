@@ -1,0 +1,9 @@
+if (!(window.jQuery)) {
+    alert("jQuery has not been loaded");
+    // Use pure JavaScript to make sure users experience isn't hindered
+} else if (!(window.jQuery.fn.jquery == '1.0')) {
+    var jQueryVersion = window.jQuery.fn.jquery;
+    alert("This version you wanted: 1.0 was not loaded it was " + jQueryVersion);
+} else {
+    alert("jQuery has loaded fine!");
+}

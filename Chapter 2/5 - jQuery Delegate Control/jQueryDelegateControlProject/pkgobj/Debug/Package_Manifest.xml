@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9b5e226e-08be-4c73-ab3e-d8abc9092262" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="jQueryDelegateControlProject.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\jQuery\jQueryDelegateControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="jQueryDelegateControlProject_jQueryDelegateFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

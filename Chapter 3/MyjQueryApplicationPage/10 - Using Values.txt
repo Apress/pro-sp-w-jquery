@@ -1,0 +1,16 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+    // Add event to run on Key Up of the textOne input text box
+    $('input#textOne').keyup(function () {
+        // Get value from the textOne input text box
+        var textOneValue = $(this).val();
+        // Set value of the second text box to that of the first
+        $('input#textTwo').val(textOneValue);
+    });
+});
+
+// Put in Main section
+
+<input type="text" id="textOne" />
+<input type="text" id="textTwo" />

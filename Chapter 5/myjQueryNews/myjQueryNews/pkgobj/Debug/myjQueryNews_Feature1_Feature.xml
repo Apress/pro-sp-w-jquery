@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="209379d5-2dc6-4f5e-9259-dc0a219f97b9" Scope="Site" Title="myjQueryNews Feature1">
+  <ElementManifests>
+    <ElementManifest Location="MyNewsWebPart\Elements.xml" />
+    <ElementFile Location="MyNewsWebPart\MyNewsWebPart.webpart" />
+  </ElementManifests>
+</Feature>

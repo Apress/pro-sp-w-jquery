@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryCustomActionProject\jQueryCustomActionProject\bin\Debug\jQueryCustomActionProject.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryCustomActionProject\jQueryCustomActionProject\bin\Debug\jQueryCustomActionProject.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryCustomActionProject\jQueryCustomActionProject\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryCustomActionProject\jQueryCustomActionProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryCustomActionProject\jQueryCustomActionProject\obj\Debug\jQueryCustomActionProject.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryCustomActionProject\jQueryCustomActionProject\obj\Debug\jQueryCustomActionProject.pdb

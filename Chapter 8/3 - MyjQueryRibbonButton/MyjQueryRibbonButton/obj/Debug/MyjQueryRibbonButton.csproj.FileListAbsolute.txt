@@ -1,0 +1,6 @@
+C:\Pro SharePoint with jQuery\MyjQueryRibbonButton\MyjQueryRibbonButton\bin\Debug\MyjQueryRibbonButton.dll
+C:\Pro SharePoint with jQuery\MyjQueryRibbonButton\MyjQueryRibbonButton\bin\Debug\MyjQueryRibbonButton.pdb
+C:\Pro SharePoint with jQuery\MyjQueryRibbonButton\MyjQueryRibbonButton\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Pro SharePoint with jQuery\MyjQueryRibbonButton\MyjQueryRibbonButton\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro SharePoint with jQuery\MyjQueryRibbonButton\MyjQueryRibbonButton\obj\Debug\MyjQueryRibbonButton.dll
+C:\Pro SharePoint with jQuery\MyjQueryRibbonButton\MyjQueryRibbonButton\obj\Debug\MyjQueryRibbonButton.pdb

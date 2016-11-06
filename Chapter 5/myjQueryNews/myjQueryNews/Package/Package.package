@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="db6e8c6e-0bf1-47bb-a499-e69373724f20" solutionId="db6e8c6e-0bf1-47bb-a499-e69373724f20" resetWebServer="false" name="myjQueryNews" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e6c572ef-066c-4508-b93b-bed6d4ce0058" />
+  </features>
+</package>

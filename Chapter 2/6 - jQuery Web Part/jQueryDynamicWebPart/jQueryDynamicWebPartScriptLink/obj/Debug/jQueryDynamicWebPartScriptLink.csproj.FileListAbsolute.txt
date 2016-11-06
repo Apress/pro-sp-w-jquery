@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDynamicWebPart\jQueryDynamicWebPartScriptLink\bin\Debug\jQueryDynamicWebPartScriptLink.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDynamicWebPart\jQueryDynamicWebPartScriptLink\bin\Debug\jQueryDynamicWebPartScriptLink.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDynamicWebPart\jQueryDynamicWebPartScriptLink\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDynamicWebPart\jQueryDynamicWebPartScriptLink\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDynamicWebPart\jQueryDynamicWebPartScriptLink\obj\Debug\jQueryDynamicWebPartScriptLink.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDynamicWebPart\jQueryDynamicWebPartScriptLink\obj\Debug\jQueryDynamicWebPartScriptLink.pdb

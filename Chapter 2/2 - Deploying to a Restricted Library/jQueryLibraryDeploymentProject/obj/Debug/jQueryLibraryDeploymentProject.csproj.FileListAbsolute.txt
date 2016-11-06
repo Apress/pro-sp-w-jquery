@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryLibraryDeploymentProject\jQueryLibraryDeploymentProject\bin\Debug\jQueryLibraryDeploymentProject.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryLibraryDeploymentProject\jQueryLibraryDeploymentProject\bin\Debug\jQueryLibraryDeploymentProject.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryLibraryDeploymentProject\jQueryLibraryDeploymentProject\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryLibraryDeploymentProject\jQueryLibraryDeploymentProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryLibraryDeploymentProject\jQueryLibraryDeploymentProject\obj\Debug\jQueryLibraryDeploymentProject.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryLibraryDeploymentProject\jQueryLibraryDeploymentProject\obj\Debug\jQueryLibraryDeploymentProject.pdb

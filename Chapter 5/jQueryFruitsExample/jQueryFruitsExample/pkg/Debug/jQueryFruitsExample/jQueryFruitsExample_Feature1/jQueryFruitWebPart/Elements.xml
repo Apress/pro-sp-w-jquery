@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="jQueryFruitWebPart" List="113" Url="_catalogs/wp">
+    <File Path="jQueryFruitWebPart\jQueryFruitWebPart.webpart" Url="jQueryFruitWebPart.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="SharePoint and jQuery Examples" />
+    </File>
+  </Module>
+</Elements>

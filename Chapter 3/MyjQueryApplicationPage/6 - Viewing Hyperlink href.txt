@@ -1,0 +1,10 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+	var linkLocation = $('a#myLink').attr('href');
+	alert(linkLocation);
+});
+
+// Put in Main section
+
+<a href="http://NotSharePoint" id="myLink">Link</a>

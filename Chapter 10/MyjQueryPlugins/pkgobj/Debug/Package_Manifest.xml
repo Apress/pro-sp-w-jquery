@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d045349f-b208-4fc7-b66e-78f0b0d07e47" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MyjQueryPlugins.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\MyjQueryPlugins\MyLastestListData.js" />
+    <TemplateFile Location="Layouts\MyjQueryPlugins\MyGrapher.js" />
+    <TemplateFile Location="Layouts\MyjQueryPlugins\MyHighlighter.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MyjQueryPlugins_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

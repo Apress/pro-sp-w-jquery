@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0a5becf6-8a05-4d10-a20f-661cda908ce3" solutionId="0a5becf6-8a05-4d10-a20f-661cda908ce3" resetWebServer="false" name="Document Highlighter" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8ebe52c4-3ad5-4b63-9ca0-d6a315d289c5" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="6bc6e646-7343-4c18-bfda-5143cb642876" />
+  </projectItems>
+</package>

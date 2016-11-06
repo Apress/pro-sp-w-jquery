@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="jQuery Delegate Control Feature" Description="Enables jQuery through a Delgate Control" Id="347c9262-6082-4f59-8dc3-4a364313d48e" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="jQueryDelegateControlElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,9 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+	$('p#myParagraph').css({ 'background-color': 'yellow', 'font-weight': 'bold' });
+});
+
+// Put in Main section
+
+<p id="myParagraph">I am stylish</p>

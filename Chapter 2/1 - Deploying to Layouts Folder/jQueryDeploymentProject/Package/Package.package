@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="58061d5f-6838-493a-9615-71c5b392b12f" solutionId="58061d5f-6838-493a-9615-71c5b392b12f" resetWebServer="false" name="jQuery Layouts folder Deployment" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="b6aad88b-0ed1-40aa-9af8-4ebafd5b80ea" />
+  </projectItems>
+</package>

@@ -1,0 +1,30 @@
+$(document).ready(function () {
+    // Wait until SP.JS has loaded before calling getWebUserData
+    ExecuteOrDelayUntilScriptLoaded(getWebUserData, "sp.js");
+});
+
+var context = null;
+var web = null;
+var currentUser = null;
+
+function getWebUserData() {
+    // Get the current user
+    context = new SP.ClientContext.get_current();
+    // Get the current web
+    web = context.get_web();
+    // Get the current user
+    currentUser = web.get_currentUser();
+    // Load the current user
+    context.load(currentUser);
+    // Execute the query
+    context.executeQueryAsync(onSuccessMethod, onFailureMethod);
+}
+
+function onSuccessMethod() {
+    alert('User name:' + currentUser.get_title() + '\n Login Name:' + ?
+    currentUser.get_loginName());
+}
+
+function onFailureMethod(sender, args) {
+    alert('request failed ' + args.get_message() + '\n' + args.get_stackTrace());
+}

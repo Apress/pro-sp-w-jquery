@@ -1,0 +1,11 @@
+$(document).ready(function () {
+    DoSums();
+});
+
+function DoSums() {
+    var firstNumber = 10;
+    var secondNumber = "Four";
+    var thirdNumber = numberStoredInVariable;
+    var result = firstNumber + secondNumber + numberStoredInVariable;
+    console.log(result);
+}

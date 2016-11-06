@@ -1,0 +1,16 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+    // Using the html method to set the innerHtml
+    $("#htmlDiv").html('<a href="http://SharePoint">Link</a> - <b>HTML</b>');
+
+    // Using the text method to set the element content
+    $("#textDiv").text('<a href="http://SharePoint">Link</a> - <b>TEXT</b>');
+});
+
+// Put in Main section
+
+<div id="htmlDiv">
+</div>
+<div id="textDiv">
+</div>

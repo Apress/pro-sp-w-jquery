@@ -1,0 +1,10 @@
+$(document).ready(function () {
+    GetAnimals();
+});
+
+function GetAnimals() {
+    var animals = ['Cat', 'Dog', 'Goat', 'Narwhal', 'Platypus'];
+    $(animals).each(function (index, element) {
+        console.log("Animal number " + index + ": is a " + element);
+    });
+}

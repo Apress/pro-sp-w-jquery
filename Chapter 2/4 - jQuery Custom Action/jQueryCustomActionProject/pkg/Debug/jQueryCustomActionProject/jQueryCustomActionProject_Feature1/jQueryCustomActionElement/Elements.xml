@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+     ScriptSrc="/_layouts/jQuery/jquery-1.7.js"
+            Location="ScriptLink"
+            Sequence="100">
+  </CustomAction>
+  <CustomAction
+   ScriptSrc="/_layouts/jQuery/jquery-ui-1.8.js"
+          Location="ScriptLink"
+          Sequence="101">
+  </CustomAction>
+</Elements>

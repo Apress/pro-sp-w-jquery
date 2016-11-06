@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="jQueryCustomActionProject Feature1" Id="3c25aecc-2bb0-4373-bb70-2fe68f820d88" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="jQueryCustomActionElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,10 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+	// Add the warning class to the myWarning paragraph
+	$('p#myWarning').addClass('ms-warning');
+});
+
+// Put in Main section
+
+<p id="myWarning">Caution, I am a developer</p>

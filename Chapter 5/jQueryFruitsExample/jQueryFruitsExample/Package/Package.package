@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="71a81e1b-a555-44eb-8379-0e3f6ffbf4fb" solutionId="71a81e1b-a555-44eb-8379-0e3f6ffbf4fb" resetWebServer="false" name="jQuery Fruit Web Part Example" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="fbced800-70d5-4675-ae14-d716c2d5c17e" />
+  </features>
+</package>

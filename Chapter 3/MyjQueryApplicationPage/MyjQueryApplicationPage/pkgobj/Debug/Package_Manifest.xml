@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1a713150-dbc4-48fc-b7ff-476e1f7d3c5c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MyjQueryApplicationPage.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\MyjQueryApplicationPage\apple.png" />
+    <TemplateFile Location="Layouts\MyjQueryApplicationPage\jQueryBasics.aspx" />
+    <TemplateFile Location="Layouts\MyjQueryApplicationPage\lemon.png" />
+  </TemplateFiles>
+</Solution>

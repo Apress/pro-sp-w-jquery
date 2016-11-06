@@ -1,0 +1,6 @@
+C:\Pro SharePoint with jQuery\myjQueryNews\myjQueryNews\bin\Debug\myjQueryNews.dll
+C:\Pro SharePoint with jQuery\myjQueryNews\myjQueryNews\bin\Debug\myjQueryNews.pdb
+C:\Pro SharePoint with jQuery\myjQueryNews\myjQueryNews\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Pro SharePoint with jQuery\myjQueryNews\myjQueryNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro SharePoint with jQuery\myjQueryNews\myjQueryNews\obj\Debug\myjQueryNews.dll
+C:\Pro SharePoint with jQuery\myjQueryNews\myjQueryNews\obj\Debug\myjQueryNews.pdb

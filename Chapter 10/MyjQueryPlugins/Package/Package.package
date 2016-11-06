@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d045349f-b208-4fc7-b66e-78f0b0d07e47" solutionId="d045349f-b208-4fc7-b66e-78f0b0d07e47" resetWebServer="false" name="MyjQueryPlugins" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="69699d45-1154-4196-bad3-1296bbf2c303" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="12b30213-b46d-4162-998b-da3ee3bee1be" />
+  </projectItems>
+</package>

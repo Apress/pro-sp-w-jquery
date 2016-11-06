@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryTaskViewerApplication\jQueryTaskViewerApplication\bin\Debug\jQueryTaskViewerApplication.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryTaskViewerApplication\jQueryTaskViewerApplication\bin\Debug\jQueryTaskViewerApplication.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryTaskViewerApplication\jQueryTaskViewerApplication\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryTaskViewerApplication\jQueryTaskViewerApplication\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryTaskViewerApplication\jQueryTaskViewerApplication\obj\Debug\jQueryTaskViewerApplication.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryTaskViewerApplication\jQueryTaskViewerApplication\obj\Debug\jQueryTaskViewerApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\jQueryTaskViewerApplication - Copy\jQueryTaskViewerApplication\bin\Debug\jQueryTaskViewerApplication.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\jQueryTaskViewerApplication - Copy\jQueryTaskViewerApplication\bin\Debug\jQueryTaskViewerApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\jQueryTaskViewerApplication - Copy\jQueryTaskViewerApplication\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\jQueryTaskViewerApplication - Copy\jQueryTaskViewerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\jQueryTaskViewerApplication - Copy\jQueryTaskViewerApplication\obj\Debug\jQueryTaskViewerApplication.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\jQueryTaskViewerApplication - Copy\jQueryTaskViewerApplication\obj\Debug\jQueryTaskViewerApplication.pdb

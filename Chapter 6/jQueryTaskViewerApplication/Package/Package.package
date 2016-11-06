@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6460dd07-bd1f-42b9-af3a-4c5945980074" solutionId="6460dd07-bd1f-42b9-af3a-4c5945980074" resetWebServer="false" name="jQueryTaskViewerApplication" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="7f01cfdb-a25c-4d47-9085-68ae619ab17a" />
+  </projectItems>
+</package>

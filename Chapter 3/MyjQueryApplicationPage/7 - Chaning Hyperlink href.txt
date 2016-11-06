@@ -1,0 +1,21 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+    ChangeLink();
+});
+
+function ChangeLink() {
+    // Read the href attribute
+    var originalLinkLocation = $('a#myLink').attr('href');
+
+    // Set the href
+    $('a#myLink').attr('href', "http://SharePoint");
+
+    // Read the href attribute again
+    var newLinkLocation = $('a#myLink').attr('href');
+    alert('Link was to ' + originalLinkLocation + ' now it is ' + newLinkLocation);
+}
+
+// Put in Main section
+
+<a href="http://NotSharePoint" id="myLink">Link</a>

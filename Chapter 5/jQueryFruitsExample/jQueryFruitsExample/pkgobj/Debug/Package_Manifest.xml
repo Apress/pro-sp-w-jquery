@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="71a81e1b-a555-44eb-8379-0e3f6ffbf4fb" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="jQueryFruitsExample.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="jQueryFruitsExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e7d3ee00bec9549e" Namespace="jQueryFruitsExample.jQueryFruitWebPart" TypeName="*" />
+      </SafeControls>
+      <ClassResources>
+        <ClassResource Location="Scripts\jQueryFruit.js" />
+      </ClassResources>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\jQueryFruitsExample\jQueryFruitWebPart\jQueryFruitWebPartUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="jQueryFruitsExample_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

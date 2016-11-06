@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="c848c9a0-1b2c-4add-9c2e-711dcf26c1bb" Scope="Site" Title="jQueryFruitsExample Feature1">
+  <ElementManifests>
+    <ElementManifest Location="jQueryFruitWebPart\Elements.xml" />
+    <ElementFile Location="jQueryFruitWebPart\jQueryFruitWebPart.webpart" />
+  </ElementManifests>
+</Feature>

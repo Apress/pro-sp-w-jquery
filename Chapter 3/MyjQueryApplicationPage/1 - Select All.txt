@@ -1,0 +1,20 @@
+// Put in PageHead section
+
+$(document).ready(function () {
+    // All Elements
+    $('*').css('background-color', '#ADD8E6');
+});
+
+// Put in Main section
+
+<div id="myId">
+	<p class="myClass">
+		class is set to myClass
+	</p>
+	<p>
+		Just a plain paragraph
+	</p>
+	<p class="myClass">
+		class is also set to myClass
+	</p>
+</div>

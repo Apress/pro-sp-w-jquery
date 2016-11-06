@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  
+  <CustomAction
+    ScriptSrc="/_layouts/MyjQueryRibbonButton/documentHighlighter.js"
+           Location="ScriptLink"
+           Sequence="100">
+  </CustomAction>
+  
+  <CustomAction
+    Id="myjQueryRibbon"
+    RegistrationType="List"
+    RegistrationId="101"
+    Location="CommandUI.Ribbon">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        <CommandUIDefinition
+         Location="Ribbon.Documents.New.Controls._children">
+          <Button
+           Id="Ribbon.Documents.New.Controls.myJqueryButton"
+           Alt="jQuery Ribbon Button"
+           Sequence="10"
+           Image32by32="/_layouts/images/OBJECTIV.GIF"
+           Command="highlightUsingjQuery"
+           LabelText="jQuery Highlight"
+           TemplateAlias="o2"/>
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+      <CommandUIHandlers>
+        <CommandUIHandler
+         Command="highlightUsingjQuery"
+         CommandAction="javascript:highlightSelected()"/>
+      </CommandUIHandlers>
+    </CommandUIExtension>
+  </CustomAction>
+</Elements>

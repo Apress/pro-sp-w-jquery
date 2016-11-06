@@ -1,0 +1,7 @@
+$(document).ready(function () {
+    DoSomething();
+});
+
+function DoSomething() {
+    console.log('DoSomething was called');
+}

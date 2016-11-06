@@ -1,0 +1,68 @@
+<script type="text/javascript">
+    $(document).ready(function () {
+        GraphItems();
+    });
+
+    function GraphItems() {
+
+        // Retrieve the table cells in the 4th column ('Units Sold')
+        var listItems = $('.ms-listviewtable>tbody>tr.ms-itmhover>td:nth-child(4)');
+
+        var count = listItems.length;
+        var total = 0;
+        var numbers = [];
+
+        // Iterate through each unit sold value
+        listItems.each(function (index) {
+            if ($(this).text() != "") {
+                number = parseInt($(this).text())
+                numbers.push(number)
+            }
+        });
+
+        // Get the most popular product unit count using
+        // JavaScript method on the numbers array
+        var largest = Math.max.apply(Math, numbers);
+
+        // Iterate through each table cell for item
+        listItems.each(function (index) {
+
+            // Create a new empty div
+            var div = $('<div/>');
+
+            // get the number of the table cell
+            number = parseInt($(this).text())
+
+            // Work out the average compared to largest
+            // number of units sold
+            var average = parseInt(number / largest * 100);
+
+            // Set CSS properties on the new div
+            div.css('font-weight', 'bolder');
+            div.css('color', 'white');
+
+            // Set width to average % to give
+            // div a graph look
+            div.css('width', average + '%');
+
+            // Switch to set color based on
+            // Comparison to the average
+            switch (true) {
+            case (average >= 75):
+                div.css('background-color', 'green');
+                break;
+            case (average >= 25):
+                div.css('background-color', 'orange');
+                break;
+            default:
+                div.css('background-color', 'red');
+                break;
+            }
+
+            // Wrap the existing contents of the td
+            // with the new formatted div
+            $(this).wrapInner(div);
+        });
+
+    }
+</script>

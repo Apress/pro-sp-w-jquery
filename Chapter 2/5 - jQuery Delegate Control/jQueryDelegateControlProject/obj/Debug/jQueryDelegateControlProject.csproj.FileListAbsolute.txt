@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDelegateControlProject\jQueryDelegateControlProject\bin\Debug\jQueryDelegateControlProject.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDelegateControlProject\jQueryDelegateControlProject\bin\Debug\jQueryDelegateControlProject.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDelegateControlProject\jQueryDelegateControlProject\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDelegateControlProject\jQueryDelegateControlProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDelegateControlProject\jQueryDelegateControlProject\obj\Debug\jQueryDelegateControlProject.dll
+c:\users\administrator\documents\visual studio 2010\Projects\jQueryDelegateControlProject\jQueryDelegateControlProject\obj\Debug\jQueryDelegateControlProject.pdb
+C:\Chapter 2\5 - Enabling jQuery through Delegate Control\jQueryDelegateControlProject\jQueryDelegateControlProject\bin\Debug\jQueryDelegateControlProject.dll
+C:\Chapter 2\5 - Enabling jQuery through Delegate Control\jQueryDelegateControlProject\jQueryDelegateControlProject\bin\Debug\jQueryDelegateControlProject.pdb
+C:\Chapter 2\5 - Enabling jQuery through Delegate Control\jQueryDelegateControlProject\jQueryDelegateControlProject\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Chapter 2\5 - Enabling jQuery through Delegate Control\jQueryDelegateControlProject\jQueryDelegateControlProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Chapter 2\5 - Enabling jQuery through Delegate Control\jQueryDelegateControlProject\jQueryDelegateControlProject\obj\Debug\jQueryDelegateControlProject.dll
+C:\Chapter 2\5 - Enabling jQuery through Delegate Control\jQueryDelegateControlProject\jQueryDelegateControlProject\obj\Debug\jQueryDelegateControlProject.pdb

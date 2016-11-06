@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="6460dd07-bd1f-42b9-af3a-4c5945980074" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="jQueryTaskViewerApplication.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\jQueryTaskViewerApplication\jQueryTaskViewer.aspx" />
+    <TemplateFile Location="Layouts\jQueryTaskViewerApplication\jQueryTaskViewerScript.js" />
+    <TemplateFile Location="Layouts\jQueryTaskViewerApplication\style.css" />
+  </TemplateFiles>
+</Solution>

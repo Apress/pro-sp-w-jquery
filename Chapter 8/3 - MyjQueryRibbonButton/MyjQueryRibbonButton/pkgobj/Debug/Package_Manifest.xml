@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="0a5becf6-8a05-4d10-a20f-661cda908ce3" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MyjQueryRibbonButton.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\MyjQueryRibbonButton\documenthighlighter.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MyjQueryRibbonButton_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

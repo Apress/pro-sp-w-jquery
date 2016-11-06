@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ae555cc3-ac7c-496e-8894-89792528eb30" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="jQueryLibraryDeploymentProject.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="jQueryLibraryDeploymentProject_jQuerySiteAssetsFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

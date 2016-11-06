@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="03390b12-c3e1-4d90-922b-89198ede4980" solutionId="03390b12-c3e1-4d90-922b-89198ede4980" resetWebServer="false" name="PluginPageProject" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="0504961f-f016-4e3c-8338-6f9940a39ec3" />
+  </projectItems>
+</package>

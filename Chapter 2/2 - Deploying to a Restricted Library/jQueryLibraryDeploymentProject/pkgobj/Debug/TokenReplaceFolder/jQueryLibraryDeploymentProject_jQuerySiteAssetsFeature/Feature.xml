@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Deploy jQuery to Site Assets Feature" Description="Feature to deploy jQuery to the Site Assets library" Id="47b4376b-6fd4-487f-aad1-97ed69570941" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="Assets\Elements.xml" />
+    <ElementFile Location="Assets\jquery-1.6.js" />
+  </ElementManifests>
+</Feature>

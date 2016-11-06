@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="cea3c285-8d6e-43d1-9406-57114fb52ef9" Scope="Site" Title="jQueryDynamicWebPartScriptLink Feature1">
+  <ElementManifests>
+    <ElementManifest Location="jQueryScriptLink\Elements.xml" />
+    <ElementFile Location="jQueryScriptLink\jQueryScriptLink.webpart" />
+  </ElementManifests>
+</Feature>

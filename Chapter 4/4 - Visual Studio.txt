@@ -1,0 +1,13 @@
+$(document).ready(function () {
+    CountQuickLaunchElements();
+});
+
+function CountQuickLaunchElements() {
+    alert('Try to count quick launch children using incorrect ID selector');
+    var childCount;
+    childCount = $('#ms-quickLaunch').children().length;
+    alert("Children: " + childCount);
+    alert('Try to count quick launch children using correct CLASS selector');
+    childCount = $('.ms-quickLaunch').children().length;
+    alert("Children: " + childCount);
+}
